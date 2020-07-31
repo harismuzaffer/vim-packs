@@ -1,0 +1,6 @@
+[submodule "plugins/start/ctrlp"]
+	path = plugins/start/ctrlp
+	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule "syntax/start/ale"]
+	path = syntax/start/ale
+	url = https://github.com/dense-analysis/ale.git
