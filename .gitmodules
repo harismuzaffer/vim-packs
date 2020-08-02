@@ -10,6 +10,3 @@
 [submodule "vim-closer"]
 	path = vim-closer
 	url = git@github.com:rstacruz/vim-closer.git
-[submodule "syntax/start/vim-closer"]
-	path = syntax/start/vim-closer
-	url = git@github.com:rstacruz/vim-closer.git
