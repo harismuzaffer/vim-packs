@@ -7,3 +7,6 @@
 [submodule "plugins/start/airline"]
 	path = plugins/start/airline
 	url = https://github.com/vim-airline/vim-airline
+[submodule "syntax/start/python-pep8-indent"]
+	path = syntax/start/python-pep8-indent
+	url = git@github.com:Vimjas/vim-python-pep8-indent.git
