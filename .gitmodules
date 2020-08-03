@@ -7,6 +7,3 @@
 [submodule "plugins/start/airline"]
 	path = plugins/start/airline
 	url = https://github.com/vim-airline/vim-airline
-[submodule "syntax/start/vim-closer"]
-	path = syntax/start/vim-closer
-	url = git@github.com:rstacruz/vim-closer.git
