@@ -10,3 +10,6 @@
 [submodule "syntax/start/python-pep8-indent"]
 	path = syntax/start/python-pep8-indent
 	url = git@github.com:Vimjas/vim-python-pep8-indent.git
+[submodule "syntax/start/auto-pairs"]
+	path = syntax/start/auto-pairs
+	url = git@github.com:jiangmiao/auto-pairs.git
